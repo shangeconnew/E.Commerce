@@ -2,11 +2,11 @@
 title: 'Internet Commerce and Case Studies'
 date: 'Fall Semester, 2022'
 output:
-  html_document:
-    df_print: paged
   pdf_document: 
     includes:
       in_header: header.tex
+  html_document:
+    df_print: paged
 ---
 
 ```{r setup, include=FALSE}
@@ -16,14 +16,16 @@ knitr::opts_chunk$set(echo = TRUE)
 ##  Instructor 
 Dr. Shengwu Shang
 
-- E-mail: \blc<sshang@ksu.edu>\bc; **Write in the subject line STAT 350**.
+- E-mail: \blc<sshang@ksu.edu>\bc; Write in the subject line **Ecomm**.
 
 ##  Course Information
 
 - Class Meetings: 
 
   Online Zoom meeting: Tuesday 13:00-14:45, Beijing Time 
+  
   Meeting ID: 343 904 8732
+  
   Passcode: InterComm
   
   
@@ -41,7 +43,7 @@ There are three parts of this course:  the first part focus on economics. We wil
 
 ##  Textbook and Reading List
 
-- The textbook is *Pearson eText for E-Commerce 2021: Business, Technology and Society*, $16^{th}$ edition, by Kenneth C. Laudon and Carol Guercio Traver, Pearson. You do not need to own a book, I will post relevant parts for you to read.
+- The textbook is *E-Commerce 2021: Business, Technology and Society*, $16^{th}$ edition, by Kenneth C. Laudon and Carol Guercio Traver, Pearson. You do not need to own a book, I will post relevant parts for you to read.
 
 - Reference: *Industrial Organization: Contemporary Theory and Empirical Applications*, Wiley-Blackwell, 2008. ISBN: 9781405176323.
  
@@ -115,6 +117,8 @@ to take all questions seriously as long as they are asked seriously. Other
 than that, just be excellent to each other in class and we will get through
 this class just fine.
 
-
+_Disclaimer: I reserve the right to change the syllabus as
+circumstances necessitate, it is your responsibility to keep up with any
+changed policies announced in class or other form of notification._
 
 

@@ -1,26 +1,26 @@
 {
-    "id": "D85D3CD2",
-    "path": "~/E.Commerce/syllabus/Syllabus_STAT_350.Rmd",
+    "id": "18941EF8",
+    "path": "C:/Users/sshang/OneDrive - Kansas State University/STAT350/syllabus/Syllabus_STAT_350.Rmd",
     "project_path": null,
     "type": "r_markdown",
-    "hash": "1137949480",
+    "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1662430021878.0,
+    "created": 1662439332355.0,
     "source_on_save": false,
-    "relative_order": 3,
+    "relative_order": 4,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "24,41",
-        "scrollLine": "19"
+        "cursorPosition": "240,67",
+        "scrollLine": "237"
     },
     "folds": "",
-    "lastKnownWriteTime": 1662432425,
+    "lastKnownWriteTime": 1661117192,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1662432425878,
+    "last_content_update": 1661117192,
     "read_only": false,
     "read_only_alternatives": []
 }
