@@ -18,8 +18,8 @@ menu:
       url: /about/
     - name: GitHub
       url: https://github.com/shangeconnew/E.Commerce
-    - name: Twitter
-      url: https://twitter.com/rstudio
+    - name: BISTU
+      url: https://english.bistu.edu.cn/
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
