@@ -6,7 +6,7 @@ slug: week-2
 categories: []
 tags: []
 ---
-## What to expect ?
+## What have we covered this week?
 
 [What to expect](/pdf/what_to_expect.pdf)
 
