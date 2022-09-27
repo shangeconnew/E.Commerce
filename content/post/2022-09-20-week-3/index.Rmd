@@ -1,0 +1,23 @@
+---
+title: "Week 3"
+author: ''
+date: '2022-09-20'
+slug: week-3
+categories: []
+tags: []
+---
+
+## What have we covered this week?
+
+
+![A Beautiful Mind Clip](ABeautifulMind.mp4){width=600 height=450}
+
+[Differentiation Entry](/pdf/differentiation_entry.pdf)
+
+[Hotelling Model Paper](/pdf/Hotelling Model.pdf)
+
+[Chapter 2 of LTBook](/pdf/laudon-traver_ec16_ppt_ch02.pdf)
+
+## Video Link
+
+Video recording of lecture is available at [here](https://ksu.zoom.us/rec/play/Pw9hIXQai9kTQen6wW7Mz-HH7tZwndq_RPmZH3frRINXbZEmPk2BA1St6fSPHhsFzIYn70yxiDbDU8-t.P0XtdVq-x0NcIsAQ?continueMode=true&_x_zm_rtaid=RsKQtxqnS1-ijMaxhFpN2g.1664245155141.f9f2b5c9fbdf99aaf26d995adc2c9aaa&_x_zm_rhtaid=387)
