@@ -1,0 +1,12 @@
+---
+title: "Week 5"
+author: ''
+date: '2022-10-03'
+slug: week-5
+categories: []
+tags: []
+---
+
+## What have we covered this week?
+
+[Online retailers are feeling the pain as pandemic-driven e-commerce slows](https://www.npr.org/2022/07/15/1111658475/online-retailers-are-feeling-the-pain-as-pandemic-driven-e-commerce-slows)
