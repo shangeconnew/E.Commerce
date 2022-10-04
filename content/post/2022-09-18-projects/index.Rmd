@@ -2,9 +2,12 @@
 title: "Projects"
 author: ''
 date: '2022-09-18'
-slug: projects
+output:
+  html_document:
+    df_print: paged
 categories: []
 tags: []
+slug: projects
 ---
 # Projects
 
@@ -26,3 +29,5 @@ explain your vision of what e-commerce will look like in 2025.
 - 4. Prepare a brief report or presentation on how companies are using Instagram or another company of your choosing as a social e-commerce platform. 
 
 - 5. Follow up on events at Uber since July 2020 (when the opening case was prepared). Prepare a short report on your findings.
+
+- PDF can be found [here](/pdf/Projects.pdf)
