@@ -1,0 +1,34 @@
+---
+title: 'Case Study 1.2: AMAZON'
+author: ''
+date: '2022-10-10'
+slug: case-study-1-2-amazon
+categories: []
+tags: []
+---
+
+## Introduction
+
+It all started in July, 1994 when former investment banker Jeff Bezos left New  York City for Seattle to launch a new on-line book store.  Amazon.com took shape over the next 12 months and the company's web storefront recorded its first sale in July, 1995.  By year-end 1996, Amazon.com had generated $15.7 Million in sales.  On May 15, 1997 Amazon.com raised $54 Million of capital with an IPO on the NASDAQ (AMZN).  The company grew at an astonishing pace with sales reaching $1.6 Billion by the end of 1999.
+
+In 2000, Amazon took a sharp turn for the worse when a quarterly financial loss of $323 Million was reported. A subsequent quarterly loss of $200 Million sent the company share price tumbling by 70%.  Losses continued through 2000 with Amazon reporting a massive $1.4 billion loss for the year.  Speculation on the street was that Amazon would file for bankruptcy and the company's stock hit an all time low.  In 2001, a major cost cutting and restructuring effort restored profitability to the firm and Amazon has not looked back since. While Amazon has not been a consistently profitable company, the company has had an unprecedented impact on the retail industry in large part due to its visionary leadership and continuous investments into the company's sophisticated supply chain.
+
+In 1997, Amazon launched its distribution network with two fulfillment centers in Seattle and Delaware. The original 93,000-square-foot Seattle facility was largely manual and now seems tiny relative to the new fulfillment centers being built today.  The 202,000-square-foot facility in New Castle, Delaware was undoubtedly a brave gamble back in November 1997. In 1999, Amazon expanded by adding fulfillment centers in: Fernley, NV; Coffeyville, KS; McDonough, GA (later closed in 2001); Campbellsville, KY; and Lexington, KY.  At the same time, Amazon expanded into Europe with fulfillment centers in Regensburg, Germany; Bad Hersfeld, Germany; and Marston Gate, UK.  Things then went relatively quiet on the expansion front until 2005 and since then Amazon's fulfillment network has been growing at an unprecedented pace around the world.
+
+To view maps of Amazon’s Global Distribution Network click [here](https://mwpvl.com/html/amazon_maps.html).
+
+## Media articles
+
+- 1. Forbes
+
+[Has Amazon Stock Peaked?](https://www.forbes.com/sites/qai/2022/09/27/has-amazon-stock-peaked/?sh=7b06f7bc2396)
+
+- 2. Bloomberg
+
+[When Amazon Puts a Warehouse Next Door: ‘We Can’t Escape It’](https://www.bloomberg.com/graphics/2022-amazon-delivery-stations/)
+
+- 3. The Wall Street Journal
+
+[Amazon’s Plans for Massive Warehouses Go Forward Amid Logistics Review](https://www.wsj.com/articles/amazons-plans-for-massive-warehouses-go-forward-amid-logistics-review-11659035631?mod=business_minor_pos22)
+
+[E-Commerce Warehouses Are Springing Leaks](https://www.wsj.com/articles/e-commerce-warehouses-are-springing-leaks-11658483455)
