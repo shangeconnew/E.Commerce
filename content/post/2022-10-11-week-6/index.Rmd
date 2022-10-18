@@ -1,0 +1,21 @@
+---
+title: "Week 6"
+author: ''
+date: '2022-10-11'
+slug: week-6
+categories: []
+tags: []
+---
+## What have we covered this week?
+- [Kelvin's Presentation about BING](/pdf/Presentation Microsoft Bing_Kelvin.pdf)
+
+- [Case Study 1.2: AMAZON](/pdf/case_study_2.pdf)
+
+- [Price Discrimination on Line](/pdf/PriceDiscriminationOnLine.pdf)
+
+- [Shiller's Paper](/pdf/Shiller - Approximating Purchase Propensities and Reservation Prices from Broad Consumer Tracking.pdf)
+
+
+## Video Link
+
+Video recording of lecture is available at [here](https://ksu.zoom.us/rec/play/WhJG9Yzh2oHQ0etSPXfP_9PBd0SJbL3rSNYm4_WmrM61gzdfBrTs-dhEGTVDKsVZdLxhblcnY41pi8Mr.KmbLy0ksfxEcI_5k?continueMode=true&_x_zm_rtaid=Y8Wh0dHdRjyZVSG90zjOeQ.1666064580079.e557f76a066d79ec5ead26a407f8c983&_x_zm_rhtaid=893)
