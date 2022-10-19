@@ -2,14 +2,22 @@
 title: "Nobel Prize in Economic Sciences 2022"
 author: ''
 date: '2022-10-17'
-slug: week-7
+slug: Nobel Prize
 categories: []
 tags: []
 ---
-
+<!-- https://www.nobelprize.org/prizes/economic-sciences/2022/summary/ -->
 ## The Prize in Economic Sciences 2022
 
 [10 October 2022](/pdf/press-economicsciencesprize2022.pdf)
+
+![](/image/nobelprize_econ22.png)
+<center>
+
+![](/image/nobelprize_econ22.png)
+
+</center>
+
 
 The Royal Swedish Academy of Sciences has decided to award the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2022 to
 
@@ -30,6 +38,22 @@ Washington University in St. Louis, MO, USA
 born 1955. PhD 1979 from Yale University, New Haven, CT, USA. Boatmen’s Bancshares Professor of Banking and Finance, Washington University in St. Louis, Olin Business School, MO, USA.
 
 *“for research on banks and financial crises”*
+
+## Their discoveries improved how society deals with financial crises
+
+This year’s laureates in the Economic Sciences, Ben Bernanke, Douglas Diamond and Philip Dybvig, have significantly improved our understanding of the role of banks in the economy, particularly during financial crises. An important finding in their research is why avoiding bank collapses is vital.
+
+Modern banking research clarifies why we have banks, how to make them less vulnerable in crises and how bank collapses exacerbate financial crises. The foundations of this research were laid by **Ben Bernanke, Douglas Diamond** and **Philip Dybvig** in the early 1980s. Their analyses have been of great practical importance in regulating financial markets and dealing with financial crises.
+
+For the economy to function, savings must be channelled to investments. However, there is a conflict here: savers want instant access to their money in case of unexpected outlays, while businesses and homeowners need to know they will not be forced to repay their loans prematurely. In their theory, Diamond and Dybvig show how banks offer an optimal solution to this problem. By acting as intermediaries that accept deposits from many savers, banks can allow depositors to access their money when they wish, while also offering long-term loans to borrowers.
+
+However, their analysis also showed how the combination of these two activities makes banks vulnerable to rumours about their imminent collapse. If a large number of savers simultaneously run to the bank to withdraw their money, the rumour may become a self-fulfilling prophecy – a bank run occurs and the bank collapses. These dangerous dynamics can be prevented through the government providing deposit insurance and acting as a lender of last resort to banks.
+
+Diamond demonstrated how banks perform another societally important function. As intermediaries between many savers and borrowers, banks are better suited to assessing borrowers’ creditworthiness and ensuring that loans are used for good investments.
+
+Ben Bernanke analysed the Great Depression of the 1930s, the worst economic crisis in modern history. Among other things, he showed how bank runs were a decisive factor in the crisis becoming so deep and prolonged. When the banks collapsed, valuable information about borrowers was lost and could not be recreated quickly. Society’s ability to channel savings to productive investments was thus severely diminished.
+
+“The laureates’ insights have improved our ability to avoid both serious crises and expensive bailouts,” says Tore Ellingsen, Chair of the Committee for the Prize in Economic Sciences.
 
 **Prize amount**: 10 million Swedish kronor, to be shared equally between the laureates.
 
