@@ -1,0 +1,52 @@
+---
+title: "Week 8"
+author: ''
+date: '2022-10-21'
+slug: week-8
+categories: []
+tags: []
+---
+
+- [Changing locations online to buy games for cheap actually helped one indie developer](https://www.npr.org/2022/10/20/1130318822/changing-locations-online-to-buy-games-for-cheap-actually-helped-one-indie-devel)
+
+<!-- - [How to Ruin a Local Economy: the Tourist Price](https://www.journeywonders.com/the-tourist-price/) -->
+
+## Project
+
+- Guidelines: the goal of this project is to allow you make a connection
+between course topics and real world. The course project is to push you get immersed in real business life and is very important for us.
+
+- Topics I suggested are as follows:
+
+- 1. Choose an e-commerce company and assess it in terms of the eight unique features
+of e-commerce technology described in Table 1.2. Which of the features does the
+company implement well, and which features poorly, in your opinion? Prepare a
+short memo to the president of the company you have chosen detailing your
+findings and any suggestions for improvement you may have.
+
+- 2. Search the Web for an example of each of the major types of e-commerce described in Section 1.4 and listed in Table 1.3. Create a presentation or written report
+describing each company (take a screenshot of each, if possible), and explain why it fits into the category of e-commerce to which you have assigned it.
+
+- 3. Given the development and history of e-commerce in the years 1995-2020, what do
+you predict we will see during the next five years of e-commerce? Describe some of
+the technological, business, and societal shifts that may occur as the Internet
+continues to grow and expand. Prepare a brief presentation or written report to
+explain your vision of what e-commerce will look like in 2025.
+
+- 4. Prepare a brief report or presentation on how companies are using Instagram or another company of your choosing as a social e-commerce platform. 
+
+- 5. Follow up on events at Uber since July 2020 (when the opening case was prepared). Prepare a short report on your findings.
+
+
+- The project is worth $100$ points.
+- Due Dates: 
+   - the proposal due by **5pm Friday, Oct. 29**;
+   - the slides due by **5pm Friday, Nov. 5**;
+   - the presentation at **1 p.m. - 2:30 p.m. Tuesday, Nov.9**;
+   - the final writeup due by **5pm Friday, Nov. 12**.
+- Grades: 
+   - the proposal: $20$;
+   - the slides: $30$;
+   - The presentation: $25$;
+   - the final writeup: $25$.
+ 
