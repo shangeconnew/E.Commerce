@@ -13,12 +13,9 @@ tags: []
 
 - [Kroger and Albertsons plan merger to combine 2 largest supermarket chains](https://www.npr.org/2022/10/14/1129014897/kroger-and-albertsons-plan-merger-to-combine-2-largest-supermarket-chains)
 
-<!-- - [Case Study 1.2: AMAZON](/pdf/case_study_2.pdf) -->
+- [Building an E-commerce Presence](/pdf/Building an E-commerce Presence.pdf)
 
-<!-- - [Price Discrimination on Line](/pdf/PriceDiscriminationOnLine.pdf) -->
-
-<!-- - [Shiller's Paper](/pdf/Shiller - Approximating Purchase Propensities and Reservation Prices from Broad Consumer Tracking.pdf) -->
-
+- stops at pp23!
 
 ## Video Link
 
