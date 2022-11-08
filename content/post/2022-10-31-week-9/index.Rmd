@@ -1,5 +1,5 @@
 ---
-title: Week 9
+title: "Week 9"
 author: ''
 date: '2022-10-31'
 slug: week-9
@@ -15,8 +15,13 @@ tags: []
 
 - [These are some of the Twitter features users want now that Elon Musk owns it](https://www.npr.org/2022/10/28/1132165057/elon-musk-twitter-features)
 
+- Talk about proposal of project
 
+- [auction_primer](/pdf/auction_primer.pdf)
 
-<!-- ## Video Link -->
+- [E-commerce Security and Payment Systems](/pdf/laudon-traver_ec16_ppt_ch05_accessible.pdf)
+ - stops at pp27!
 
-<!-- Video recording of lecture is available at [here](https://ksu.zoom.us/rec/play/Qnv6FEtc6avLvf4ptzcHmDs3BYTdGmIwXME4CYrEHP_tie5ctXGAcMCWAq8LgBAP54QKY1cKAbN0rfkm.HEuothvbD1KLU8Fg?continueMode=true&_x_zm_rtaid=vJbJ_YsWTpuDZyN_aEQBVA.1666146043045.cb5ce9ecaf0140b6c95a7c04bc9f32a6&_x_zm_rhtaid=389) -->
+## Video Link
+
+Video recording of lecture is available at [here](https://ksu.zoom.us/rec/play/7aVKdKLOI9lN-4dxXNqqEAAVpmjN7zaQsmTuNv4frU5XykBzUZ1hfCWs_H0lkNSRfKRa2-PhXUfu0iVG.h5VCZpbaNYF6KMZb?continueMode=true&_x_zm_rtaid=LvVK3L0mQZuepwAR6LmOlQ.1667882692695.5a3b498edd91c90e8ca4a105e56af581&_x_zm_rhtaid=461)
