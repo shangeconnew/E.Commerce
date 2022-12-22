@@ -1,0 +1,15 @@
+---
+title: "Week 11"
+author: ''
+date: "2022-11-15"
+slug: "week-11"
+categories: []
+tags: []
+---
+
+## What have we covered this week?
+
+- Project Presentation [here](https://internetcommerce.netlify.app/2022/10/24/week-8/)
+
+
+
